@@ -3334,8 +3334,8 @@ Back To Top Section
 
   .footer .footer-item .logo-bottom {
     margin-bottom: 10px;
-    width: 15rem;
-    height: 15rem; }
+    width: 5rem;
+    height: 5rem; }
   .footer .footer-item .footer-title {
     font-size: 24px;
     padding: 20px 0 30px 0;
@@ -3347,6 +3347,9 @@ Back To Top Section
     margin-top: 50px;
     margin-bottom: 30px;
     display: inline-block; }
+    .footer .footer-item p{
+      font-size: 14px;
+    }
     .footer .footer-item .footer-sosmed a .item {
       color: #ffffff;
       display: table-cell;
